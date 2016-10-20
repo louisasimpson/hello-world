@@ -12,12 +12,17 @@
     top: 30%;
 }
 .flex-caption h2.slide-title {
-    font-size: 6vw;
+    font-size: 5vw;
 }
 .flex-caption .cta {
-    margin-top: 5%;
+    margin-top: 0%;
 }
 .flex-caption .cta a {
-    font-size: 3vw;
+    font-size: 2vw;
+}
+}
+@media screen and (max-width: 500px) {
+.flex-caption.slide1 .cta {
+    display: none;
 }
 }
