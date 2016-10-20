@@ -6,3 +6,17 @@
 .fancybox-skin {
     background: #ffffff; 
 }
+@media screen and (max-width: 740px)
+.flex-caption.slide1 {
+    display: block;
+    top: 40%;
+}
+.flex-caption h2.slide-title {
+    font-size: 6vw;
+}
+.flex-caption .cta {
+    margin-top: 5%;
+}
+.flex-caption .cta a {
+    font-size: 3vw;
+}
