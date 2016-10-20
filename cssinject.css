@@ -24,8 +24,6 @@
 @media screen and (max-width: 500px) {
 .flex-caption.slide1 {
     top: 40%;
-}
-.flex-caption.slide1 h2 {
     display: block;
 }
 .flex-caption.slide1 .cta {
