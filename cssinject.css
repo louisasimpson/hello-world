@@ -22,7 +22,7 @@
 }
 }
 @media screen and (max-width: 500px) {
-.flex-caption.slide1 .cta {
+.flex-caption.slide1 .cta a {
     padding: 5px 10px;
 }
 }
