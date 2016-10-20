@@ -6,7 +6,7 @@
 .fancybox-skin {
     background: #ffffff; 
 }
-@media screen and (max-width: 980px) and (min-width: 500px) {
+@media screen and (max-width: 980px) {
 .flex-caption.slide1 {
     display: block;
     top: 30%;
@@ -22,14 +22,7 @@
 }
 }
 @media screen and (max-width: 500px) {
-.flex-caption.slide1 {
-    top: 40%;
-    display: block;
-}
-.flex-caption.slide1 h2 {
-    font-size: 6vw;
-}
 .flex-caption.slide1 .cta {
-    display: none;
+    padding: 5px 10px;
 }
 }
