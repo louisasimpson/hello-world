@@ -1,28 +1,7 @@
-
-/* css for bride2be */
-.section-title.lines h2 {
-    background: #ffffff;
+.featured-link--margin {
+    margin-left: 0%;
+    margin-right: 0%;
 }
-.fancybox-skin {
-    background: #ffffff; 
-}
-@media screen and (max-width: 980px) {
-.flex-caption.slide1 {
-    display: block;
-    top: 30%;
-}
-.flex-caption h2.slide-title {
-    font-size: 5vw;
-}
-.flex-caption .cta {
-    margin-top: 0%;
-}
-.flex-caption .cta a {
-    font-size: 2vw;
-}
-}
-@media screen and (max-width: 500px) {
-.flex-caption.slide1 .cta a {
-    padding: 5px 10px;
-}
+.featured-link--half {
+    background: #f2f2f2;
 }
