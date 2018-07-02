@@ -1,6 +1,6 @@
 .featured-link--margin {
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 0%!important;
+    margin-right: 0%!important;
 }
 .featured-link--half {
     background: #f2f2f2;
